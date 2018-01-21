@@ -54,7 +54,7 @@ If you want to encrypt an existing private key, it can be specified by setting
 		},
 		cli.BoolFlag{
 			Name:  "stdoutkeystore",
-			Usage: "Prevents writing keystore to file, instead outputs the keystore to standard output (stdout)",
+			Usage: "prevents writing keystore to file, instead outputs the keystore to standard output (stdout)",
 		},
 	},
 	Action: func(ctx *cli.Context) error {
