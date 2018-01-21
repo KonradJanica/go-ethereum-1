@@ -60,7 +60,6 @@ var (
 		utils.BootnodesV5Flag,
 		utils.DataDirFlag,
 		utils.KeyStoreDirFlag,
-		utils.WriteKeyStoreOnlyToStdout,
 		utils.NoUSBFlag,
 		utils.DashboardEnabledFlag,
 		utils.DashboardAddrFlag,
